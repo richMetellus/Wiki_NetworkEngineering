@@ -1,4 +1,4 @@
-Topic Template Title 
+Network Engineering knowledge Bank
 ###################################
 
 .. only:: personal
@@ -18,9 +18,9 @@ Courses
 *********
 
 .. toctree::
-    :caption: Journal
+    :caption: Microchip Ethernet Fundamentals Course
     :glob:
     :numbered:
     :maxdepth: 1
 
-    Courses/CourseName_git/content.rst
+    Courses/Wiki_EthernetFundamentals_Crs_git/content
