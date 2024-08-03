@@ -1,5 +1,7 @@
-Glossary 
-#########
+.. _ethernetRelatedGlossary:
+
+Ethernet Related Glossary 
+##############################
 
 
 .. glossary:: 
@@ -25,6 +27,24 @@ Glossary
         method of combining four SGMII lines into a 5 Gbit/s interface. 
         QSGMII, like SGMII, uses low-voltage differential signaling (LVDS) 
         for the TX and RX data, and a single LVDS clock signal.
+    
+    1000BASE-LX 
+        1000BASE-LX is a gigabit Ethernet standard over fiber optic. It is for operating 
+        on single mode fiber (SMF) or multimode fiber (MMF), with a long 
+        wavelength of 1270 to 1355 nanometers (typically 1310nm). 
+        The ``LX`` stands for long reach. 
+
+    1000BASE-SX
+        1000BASE-SX is a gigabit Ethernet standard over fiber optic. It is used 
+        for operating on multimode fiber with a short wavelength of 770 to 860 
+        nanometers (typically 850nm). 
+        The ``SX`` stands for **short reach over multimode fiber**
+
+    1000BASE-FX
+        No standards define 1000BASE-FX, but some media converter vendors call 
+        it gigabit ethernet (1000BASE) over fiber (FX). So we can see 
+        1000BASE-SX, 1000BASE-LX, 1000BASE-EX, and 1000BASE-ZX variants 
+        of 1000BASE-FX.
     
         
     
